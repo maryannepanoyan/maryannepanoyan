@@ -1,4 +1,4 @@
-# Hi there, I'm Mary Anne Panoyan (She/Her) 👋
+# Hi there, I'm Mary Anne Panoyan (she/her) 👋
 
 👩‍🔬 I am a PhD Candidate in Biological Anthropology at the University of Toronto, with a Collaborative Specialization in Global Health through the Dalla Lana School of Public Health. My research is based at the Krembil Centre for Neuroinformatics at the Centre of Addiction and Mental Health (CAMH). 
 
@@ -15,12 +15,11 @@ m.panoyan@mail.utoronto.ca
 - Mendelian randomization investigating causal relationships between tandem repeats, alcohol use, and brain structure
 - Genomic Structural Equation Modelling of Alzheimer's disease, cardiometabolic traits, and modifiable factors
 - 
-## 🧬 Broad interests
+## 🧬 Research interests
 - Statistical Genetics
 - Complex Trait Genomics
 - Human Population Genetics
 - Neurogenetics
-- Alzheimer's Disease and Neurodegeneration
 - Cardiometabolic Health
 - Modifiable Lifestyle Factors
 - Genome-Wide Association Studies (GWAS)
@@ -28,8 +27,13 @@ m.panoyan@mail.utoronto.ca
 - Mendelian Randomization
 - Polygenic Risk Scores
 
-  ## 💻 Programming Languages
+  ## 💻 Tools & Software
 - R
 - Python
 - Bash
 - Linux
+- Git
+- PLINK
+- LDSC
+- GenomicSEM
+- TwoSampleMR
