@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Mary Anne Panoyan (She/Her) 👋
 
-<!--
-**maryannepanoyan/maryannepanoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🔬 I am a PhD Candidate in Biological Anthropology at the University of Toronto, with a Collaborative Specialization in Global Health through the Dalla Lana School of Public Health. My research is based at the Krembil Centre for Neuroinformatics at the Centre of Addiction and Mental Health (CAMH). 
 
-Here are some ideas to get you started:
+🧠 My research explores the genetic architecture of complex human traits, with a particular focus on brain health and chronic disease, using large-scale genomic datasets. I am interested in applying statistical genetics approaches to investigate how genetic variation, biological mechanisms, and modifiable risk factors contribute to disease risk and to better understand the biological pathways underlying human health and disease.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I love spending time outdoors! You'll usually find me camping, hiking, paddling, skiing, or reading a good book outside🌲
+
+📫 I can be reached at my institutional email:
+m.panoyan@mail.utoronto.ca
+
+## 🔬 Current Research
+- Exome-wide association studies of tandem repeats and subcortical brain volumes
+- Exome-wide association studies of tandem repeats and alcohol-related traits
+- Mendelian randomization investigating causal relationships between tandem repeats, alcohol use, and brain structure
+- Genomic Structural Equation Modelling of Alzheimer's disease, cardiometabolic traits, and modifiable factors
+- 
+## 🧬 Broad interests
+- Statistical Genetics
+- Complex Trait Genomics
+- Human Population Genetics
+- Neurogenetics
+- Alzheimer's Disease and Neurodegeneration
+- Cardiometabolic Health
+- Modifiable Lifestyle Factors
+- Genome-Wide Association Studies (GWAS)
+- Genomic Structural Equation Modelling (Genomic SEM)
+- Mendelian Randomization
+- Polygenic Risk Scores
+
+  ## 💻 Programming Languages
+- R
+- Python
+- Bash
+- Linux
