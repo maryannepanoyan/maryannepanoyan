@@ -14,7 +14,7 @@ m.panoyan@mail.utoronto.ca
 - Exome-wide association studies of tandem repeats and alcohol-related traits
 - Mendelian randomization investigating causal relationships between tandem repeats, alcohol use, and brain structure
 - Genomic Structural Equation Modelling of Alzheimer's disease, cardiometabolic traits, and modifiable factors
-- 
+
 ## 🧬 Research interests
 - Statistical Genetics
 - Complex Trait Genomics
